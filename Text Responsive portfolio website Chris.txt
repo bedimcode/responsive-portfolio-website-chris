@@ -1,0 +1,279 @@
+========== HEADER ==========
+.nav__logo
+Chris
+
+.nav__link
+Home - Skills - Qualification - Services - Projects - Contact
+
+
+========== HOME ==========
+.home__title
+Hi, I’m Chris <br>
+Frontend Developer <br>
+Based In Perú <br>
+
+.home__social
+https://www.linkedin.com/
+https://github.com/
+https://dribbble.com/
+
+.home__info-title
+BIOGRAPHY
+CONTACT
+SERVICES
+YEARS OF EXPERIENCE
+COMPLETED PROJECTS
+COMPANIES WORKED
+
+.home__info-description .home__info-number
+Hi, I'm Chris, Frontend Developer.
+Passionate about designing beautiful web
+interfaces. Based in Perú.
+
+Lima, Perú <br>
+chrismayer@email.com <br>
++51 9876543210 <br>
+
+Website Design <br>
+UI/UX Design <br>
+Animation <br>
+
+08+
+
+24+
+
+07+
+
+
+========== SKILLS ==========
+.section__title
+Skills
+
+.section__subtitle
+My favorite skills
+
+.skills__title
+Frontend Developer 
+Web Designer
+
+.skills__name .skills__subtitle
+HTML
+Intermediate
+
+CSS
+Advanced
+
+JavaScript
+Intermediate
+
+React
+Basic
+
+Git
+Intermediate
+
+
+Figma
+Advanced
+
+Sketch
+Basic
+
+Adobe XD
+Intermediate
+
+InvisionApp
+Basic
+
+Photoshop
+Intermediate
+
+
+========== QUALIFICATION ==========
+.section__title
+Qualification
+
+.section__subtitle
+Experience & education
+
+.qualification__title
+Education
+Work
+
+.qualification__name .qualification__country .qualification__year
+Master In Web Developer
+Perú - University
+2014 - 2019
+
+UI/UX Design
+Institute - Spain
+2017 - 2019
+
+Computer Engineer
+Institute - Perú
+2019 - 2022
+
+
+Fontend Developer
+Adobe - Spain
+2014 - 2019
+
+Software Engineer
+Microsoft - Perú
+2018 - 2020
+
+Graphic Designer
+Figma - Perú
+2020 - Present
+
+
+========== SERVICES ==========
+.section__title
+Services
+
+.section__subtitle
+What i offer
+
+.services__title .services__description
+UI/UX <br>
+Designer
+
+Service that provides the best quality and at 
+the request of the client, with professional 
+work and customer support.
+
+Website <br>
+Design
+
+Digital <br>
+Animator
+
+
+========== PROJECTS ==========
+.section__title
+Projects
+
+.section__subtitle
+Most recent work
+
+
+.projects__subtitle .projects__title .projects__button
+Web
+Modern Website
+View demo
+
+Web
+ECommerce Store
+
+Design
+Application Design
+
+Animation
+Animation Prototypes
+
+========== TESTIMONIAL ==========
+.section__title
+Testimonial
+
+.section__subtitle
+My client saying
+
+.testimonial__description .testimonial__name .testimonial__subtitle
+“Working with Chris is to give a good 
+impression, I carry out my project at a good 
+cost, with excellent quality and attention. 
+Great service and recommended.”
+
+Klay Harris
+Client
+
+Mary Lens
+Client
+
+Anna Chel
+Client
+
+
+========== CONTACT ==========
+.section__title
+Contact Me
+
+.section__subtitle
+Get in touch
+
+.contact__title
+Talk to me
+Write me your project
+
+.contact__data-title .contact__data-info .contact__button
+Email
+chrismayer@email.com
+
+Whatsapp
++51 9876543210
+Write me
+
+<!-- Insert a real number plus country code -->
+https://api.whatsapp.com/send?phone=519876543210&text=Hello, more information!
+
+Messenger
+@chris.fb123
+Write me
+
+<!-- Insert your brand name or profile -->
+https://m.me/bedimcode
+
+.contact__form-tag | placeholder
+Names
+Write your names
+
+Mail
+Write your email
+
+Project
+Write your project
+
+.contact__button
+Submit
+
+========== EMAIL JS CONTACT ==========
+
+// Check if the field has a value
+	// Add and remove color
+
+	// Show message	
+		Write all the input fields 
+
+// serviceID - templateID - #form - publicKey
+	// Show message and add color
+		Message sent 
+	
+	// Remove message after five seconds
+
+	// Send Error
+		OOPS! SOMETHING HAS FAILED...
+
+// To clear the input field
+========== FOOTER ==========
+.footer__title
+Chris
+
+<p>
+Frontend Developer
+
+.footer__link
+Home
+Skills
+Projects
+
+.footer__social-link
+https://www.linkedin.com/
+https://github.com/
+https://dribbble.com/
+
+.footer__copy
+&#169; Copyright Bedimcode. All rights reserved
+
+
+
+
